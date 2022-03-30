@@ -1,0 +1,362 @@
+[
+  {
+    "Dec": "0",
+    "Hex": "00",
+    "Oct": "000",
+    "Binary": "00000000",
+    "HTML Code": "&#0;",
+    "HTML Name": "",
+    "Character": "NUL",
+    "Description": null
+  },
+  {
+    "Dec": "1",
+    "Hex": "01",
+    "Oct": "001",
+    "Binary": "00000001",
+    "HTML Code": "&#1;",
+    "HTML Name": "",
+    "Character": "SOH",
+    "Description": "Start of Heading"
+  },
+  {
+    "Dec": "2",
+    "Hex": "02",
+    "Oct": "002",
+    "Binary": "00000010",
+    "HTML Code": "&#2;",
+    "HTML Name": "",
+    "Character": "STX",
+    "Description": "Start of Text"
+  },
+  {
+    "Dec": "3",
+    "Hex": "03",
+    "Oct": "003",
+    "Binary": "00000011",
+    "HTML Code": "&#3;",
+    "HTML Name": "",
+    "Character": "ETX",
+    "Description": "End of Text"
+  },
+  {
+    "Dec": "4",
+    "Hex": "04",
+    "Oct": "004",
+    "Binary": "00000100",
+    "HTML Code": "&#4;",
+    "HTML Name": "",
+    "Character": "EOT",
+    "Description": "End of Transmission"
+  },
+  {
+    "Dec": "5",
+    "Hex": "05",
+    "Oct": "005",
+    "Binary": "00000101",
+    "HTML Code": "&#5;",
+    "HTML Name": "",
+    "Character": "ENQ",
+    "Description": "Enquiry"
+  },
+  {
+    "Dec": "6",
+    "Hex": "06",
+    "Oct": "006",
+    "Binary": "00000110",
+    "HTML Code": "&#6;",
+    "HTML Name": "",
+    "Character": "ACK",
+    "Description": "Acknowledge"
+  },
+  {
+    "Dec": "7",
+    "Hex": "07",
+    "Oct": "007",
+    "Binary": "00000111",
+    "HTML Code": "&#7;",
+    "HTML Name": "",
+    "Character": "BEL",
+    "Description": "Bell"
+  },
+  {
+    "Dec": "8",
+    "Hex": "08",
+    "Oct": "010",
+    "Binary": "00001000",
+    "HTML Code": "&#8;",
+    "HTML Name": "",
+    "Character": "BS",
+    "Description": "Backspace"
+  },
+  {
+    "Dec": "9",
+    "Hex": "09",
+    "Oct": "011",
+    "Binary": "00001001",
+    "HTML Code": "&#9;",
+    "HTML Name": "",
+    "Character": "HT",
+    "Description": "Horizontal Tab"
+  },
+  {
+    "Dec": "10",
+    "Hex": "0A",
+    "Oct": "012",
+    "Binary": "00001010",
+    "HTML Code": "&#10;",
+    "HTML Name": "",
+    "Character": "LF",
+    "Description": "NL Line Feed, New Line"
+  },
+  {
+    "Dec": "11",
+    "Hex": "0B",
+    "Oct": "013",
+    "Binary": "00001011",
+    "HTML Code": "&#11;",
+    "HTML Name": "",
+    "Character": "VT",
+    "Description": "Vertical Tab"
+  },
+  {
+    "Dec": "12",
+    "Hex": "0C",
+    "Oct": "014",
+    "Binary": "00001100",
+    "HTML Code": "&#12;",
+    "HTML Name": "",
+    "Character": "FF",
+    "Description": "NP Form Feed, New Page"
+  },
+  {
+    "Dec": "13",
+    "Hex": "0D",
+    "Oct": "015",
+    "Binary": "00001101",
+    "HTML Code": "&#13;",
+    "HTML Name": "",
+    "Character": "CR",
+    "Description": "Carriage Return"
+  },
+  {
+    "Dec": "14",
+    "Hex": "0E",
+    "Oct": "016",
+    "Binary": "00001110",
+    "HTML Code": "&#14;",
+    "HTML Name": "",
+    "Character": "SO",
+    "Description": "Shift Out"
+  },
+  {
+    "Dec": "15",
+    "Hex": "0F",
+    "Oct": "017",
+    "Binary": "00001111",
+    "HTML Code": "&#15;",
+    "HTML Name": "",
+    "Character": "SI",
+    "Description": "Shift In"
+  },
+  {
+    "Dec": "16",
+    "Hex": "10",
+    "Oct": "020",
+    "Binary": "00010000",
+    "HTML Code": "&#16;",
+    "HTML Name": "",
+    "Character": "DLE",
+    "Description": "Data Link Escape"
+  },
+  {
+    "Dec": "17",
+    "Hex": "11",
+    "Oct": "021",
+    "Binary": "00010001",
+    "HTML Code": "&#17;",
+    "HTML Name": "",
+    "Character": "DC1",
+    "Description": "Device Control 1"
+  },
+  {
+    "Dec": "18",
+    "Hex": "12",
+    "Oct": "022",
+    "Binary": "00010010",
+    "HTML Code": "&#18;",
+    "HTML Name": "",
+    "Character": "DC2",
+    "Description": "Device Control 2"
+  },
+  {
+    "Dec": "19",
+    "Hex": "13",
+    "Oct": "023",
+    "Binary": "00010011",
+    "HTML Code": "&#19;",
+    "HTML Name": "",
+    "Character": "DC3",
+    "Description": "Device Control 3"
+  },
+  {
+    "Dec": "20",
+    "Hex": "14",
+    "Oct": "024",
+    "Binary": "00010100",
+    "HTML Code": "&#20;",
+    "HTML Name": "",
+    "Character": "DC4",
+    "Description": "Device Control 4"
+  },
+  {
+    "Dec": "21",
+    "Hex": "15",
+    "Oct": "025",
+    "Binary": "00010101",
+    "HTML Code": "&#21;",
+    "HTML Name": "",
+    "Character": "NAK",
+    "Description": "Negative Acknowledge"
+  },
+  {
+    "Dec": "22",
+    "Hex": "16",
+    "Oct": "026",
+    "Binary": "00010110",
+    "HTML Code": "&#22;",
+    "HTML Name": "",
+    "Character": "SYN",
+    "Description": "Synchronous Idle"
+  },
+  {
+    "Dec": "23",
+    "Hex": "17",
+    "Oct": "027",
+    "Binary": "00010111",
+    "HTML Code": "&#23;",
+    "HTML Name": "",
+    "Character": "ETB",
+    "Description": "End of Transmission Block"
+  },
+  {
+    "Dec": "24",
+    "Hex": "18",
+    "Oct": "030",
+    "Binary": "00011000",
+    "HTML Code": "&#24;",
+    "HTML Name": "",
+    "Character": "CAN",
+    "Description": "Cancel"
+  },
+  {
+    "Dec": "25",
+    "Hex": "19",
+    "Oct": "031",
+    "Binary": "00011001",
+    "HTML Code": "&#25;",
+    "HTML Name": "",
+    "Character": "EM",
+    "Description": "End of Medium"
+  },
+  {
+    "Dec": "26",
+    "Hex": "1A",
+    "Oct": "032",
+    "Binary": "00011010",
+    "HTML Code": "&#26;",
+    "HTML Name": "",
+    "Character": "SUB",
+    "Description": "Substitute"
+  },
+  {
+    "Dec": "27",
+    "Hex": "1B",
+    "Oct": "033",
+    "Binary": "00011011",
+    "HTML Code": "&#27;",
+    "HTML Name": "",
+    "Character": "ESC",
+    "Description": "Escape"
+  },
+  {
+    "Dec": "28",
+    "Hex": "1C",
+    "Oct": "034",
+    "Binary": "00011100",
+    "HTML Code": "&#28;",
+    "HTML Name": "",
+    "Character": "FS",
+    "Description": "File Separator"
+  },
+  {
+    "Dec": "29",
+    "Hex": "1D",
+    "Oct": "035",
+    "Binary": "00011101",
+    "HTML Code": "&#29;",
+    "HTML Name": "",
+    "Character": "GS",
+    "Description": "Group Separator"
+  },
+  {
+    "Dec": "30",
+    "Hex": "1E",
+    "Oct": "036",
+    "Binary": "00011110",
+    "HTML Code": "&#30;",
+    "HTML Name": "",
+    "Character": "RS",
+    "Description": "Record Separator"
+  },
+  {
+    "Dec": "31",
+    "Hex": "1F",
+    "Oct": "037",
+    "Binary": "00011111",
+    "HTML Code": "&#31;",
+    "HTML Name": "",
+    "Character": "US",
+    "Description": "Unit Separator"
+  },
+  {
+    "Dec": "32",
+    "Hex": "20",
+    "Oct": "040",
+    "Binary": "00100000",
+    "HTML Code": "&#32;",
+    "HTML Name": "",
+    "Character": "(Space)",
+    "Description": "Space"
+  },
+  {
+    "Dec": "33",
+    "Hex": "21",
+    "Oct": "041",
+    "Binary": "00100001",
+    "HTML Code": "&#33;",
+    "HTML Name": "&excl;",
+    "Character": "!",
+    "Description": "Exclamation Mark"
+  },
+  {
+    "Dec": "34",
+    "Hex": "22",
+    "Oct": "042",
+    "Binary": "00100010",
+    "HTML Code": "&#34;",
+    "HTML Name": "&quot;",
+    "Character": "\"",
+    "Description": "Double Quote"
+  },
+  {
+    "Dec": "35",
+    "Hex": "23",
+    "Oct": "043",
+    "Binary": "00100011",
+    "HTML Code": "&#35;",
+    "HTML Name": "&num;",
+    "Character": "#",
+    "Description": "Hash or Number"
+  }
+ ]
